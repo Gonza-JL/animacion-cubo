@@ -14,7 +14,7 @@ public class PanelCubo extends JPanel {
 	private Cubo cubo;
 	
 	public PanelCubo() {
-		setBackground(Color.GREEN);
+		setBackground(Color.WHITE);
 		
 		cubo = new Cubo(100);
 		
